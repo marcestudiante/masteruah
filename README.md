@@ -17,7 +17,8 @@
 
 
 ## tabla
+
 | horario | lunes | martes | 
-| 10 | gimnasio | cafe | 
 | ----- | ---- | ------ |
+| 10 | gimnasio | cafe | 
 | 10 | cafe | gymnasio |
