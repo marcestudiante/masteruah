@@ -1,7 +1,6 @@
 # Repositorio del master de uah
 
 ## subtitulo 1
-
 - Lista no ordenada
 - Indicando formatos
 - Por ejemplo **negrita**.
@@ -18,7 +17,6 @@
 
 
 ## tabla
-
 | horario | lunes | martes | 
 | 10 | gimnasio | cafe | 
 | ----- | ---- | ------ |
